@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **medical web & mobile application**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **any thing web related**
 
