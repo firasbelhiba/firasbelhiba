@@ -48,7 +48,7 @@
 <img src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="drawing" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" alt="drawing" width="90"/>
 
  
 </span>
@@ -56,12 +56,12 @@
 ### 🧑🏻‍💻 Tools & Platform
 
 <span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="drawing" width="50"/>
-<img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="90" />
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="drawing" width="50"/>
-<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" alt="drawing" width="50"/>
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="drawing" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/640px-Kubernetes_logo.svg.png" alt="drawing" width="50"/>
+<img src="https://www.lemagit.fr/visuals/LeMagIT/hero_article/Logo-Jenkins.jpg" alt="drawing" width="50"/>
+<img src="https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529" alt="drawing" width="50"/>
+<img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="drawing" width="50"/>
 </span>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasbelhiba&layout=compact" alt="firasbelhiba" /></p>
