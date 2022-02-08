@@ -30,9 +30,9 @@
 
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="drawing" width="50"/>
-<img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="100" />
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
+<img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="95" />
+<img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="drawing" width="50"/>
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
