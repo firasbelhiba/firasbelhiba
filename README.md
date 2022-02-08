@@ -47,6 +47,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="drawing" width="50"/>
 <img src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" alt="drawing" width="50"/>
+
+ 
 </span>
 
 ### 🧑🏻‍💻 Tools & Platform
