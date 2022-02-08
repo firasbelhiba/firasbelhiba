@@ -30,7 +30,7 @@
 
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="drawing" width="50"/>
-<img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="95" />
+<img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="90" />
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" alt="drawing" width="50"/>
@@ -40,28 +40,25 @@
 
 ### 💻 Libraries & Framework
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+<span>
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="drawing" width="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png" alt="drawing" width="90" />
+<img src="http://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" alt="drawing" width="50"/>
+<img src="http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="drawing" width="50"/>
+<img src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png" alt="drawing" width="50"/>
+<img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="drawing" width="50"/>
+</span>
 
 ### 🧑🏻‍💻 Tools & Platform
 
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+<span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="drawing" width="50"/>
+<img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="90" />
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="drawing" width="50"/>
+<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" alt="drawing" width="50"/>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="drawing" width="50"/>
+</span>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasbelhiba&layout=compact" alt="firasbelhiba" /></p>
 
