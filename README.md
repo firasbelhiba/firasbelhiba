@@ -33,7 +33,7 @@
 <img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="95" />
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="drawing" width="50"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.png" alt="drawing" width="50"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="drawing" width="50"/>
  </span>
 
