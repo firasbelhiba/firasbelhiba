@@ -60,8 +60,11 @@
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="drawing" width="50" />
 <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="drawing" width="50"/>
-<img src="https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529" alt="drawing" width="50"/>
+<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="drawing" width="50"/>
+ <img src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" alt="drawing" width="50"/>
+
 </span>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasbelhiba&layout=compact" alt="firasbelhiba" /></p>
