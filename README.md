@@ -57,9 +57,9 @@
 
 <span>
 <img src="https://cdn4.vectorstock.com/i/1000x1000/14/03/node-js-emblem-vector-28501403.jpg" alt="drawing" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="drawing" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/640px-Kubernetes_logo.svg.png" alt="drawing" width="50"/>
-<img src="https://www.lemagit.fr/visuals/LeMagIT/hero_article/Logo-Jenkins.jpg" alt="drawing" width="50"/>
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="drawing" width="50" />
+<img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="drawing" width="50"/>
 <img src="https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="drawing" width="50"/>
 </span>
