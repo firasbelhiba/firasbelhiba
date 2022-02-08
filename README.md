@@ -56,7 +56,7 @@
 ### 🧑🏻‍💻 Tools & Platform
 
 <span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="drawing" width="50"/>
+<img src="https://cdn4.vectorstock.com/i/1000x1000/14/03/node-js-emblem-vector-28501403.jpg" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="drawing" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/640px-Kubernetes_logo.svg.png" alt="drawing" width="50"/>
 <img src="https://www.lemagit.fr/visuals/LeMagIT/hero_article/Logo-Jenkins.jpg" alt="drawing" width="50"/>
