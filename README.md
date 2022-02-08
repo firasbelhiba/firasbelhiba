@@ -41,10 +41,10 @@
 ### 💻 Libraries & Framework
 
 <span>
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="drawing" width="90"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png" alt="drawing" width="90" />
-<img src="http://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" alt="drawing" width="50"/>
-<img src="http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="drawing" width="50"/>
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="drawing" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png" alt="drawing" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="drawing" width="50"/>
 <img src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="drawing" width="50"/>
 </span>
