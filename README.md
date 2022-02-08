@@ -31,15 +31,10 @@
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="drawing" width="50"/>
 <img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="95" />
-<img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="drawing" width="50"/>
+<img src="https://brandlogos.net/wp-content/uploads/2020/12/python-logo.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
+<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
+<img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="drawing" width="50"/>
  </span>
 
 
