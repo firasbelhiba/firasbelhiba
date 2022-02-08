@@ -1,4 +1,4 @@
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://coincentral.com/wp-content/uploads/2020/06/ethereum-2.0.png"></div>
 <h1 align="center">Hi 👋, I'm Firas Belhiba</h1>
 <h3 align="center">A passionate Software engineer and Full stack developer from Tunisia</h3>
 
