@@ -79,7 +79,6 @@
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firasbelhiba&theme=github)
  
  
- <img alt="github contribution snake animation" src="https://github.com/firasbelhiba/firasbelhiba/blob/output/github-contribution-grid-snake.svg">
 
 
 
