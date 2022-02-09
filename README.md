@@ -71,6 +71,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasbelhiba&layout=compact" alt="firasbelhiba" /></p>
 
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firasbelhiba&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firasbelhiba&theme=nord_dark)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firasbelhiba&show_icons=true&locale=en" alt="firasbelhiba" /></p>
 
