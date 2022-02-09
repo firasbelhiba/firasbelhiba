@@ -3,9 +3,14 @@
 <h3 align="center">A passionate Software engineer , Full stack & Blockchain developer from Tunisia</h3>
 
 
-- 🔭 I’m currently working on **Decentralized Applications**
 
-- 💬 Ask me about **any thing web or blockchain related**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=firasbelhiba&label=Profile%20views&color=0e75b6&style=flat" alt="firasbelhiba" /> </p>
+
+- 🔭 I’m currently working on **medical web & mobile application**
+
+- 🌱 I’m currently learning **Blockchain**
+
+- 💬 Ask me about **any thing web related**
 
 - 📫 How to reach me **Linkedin : www.linkedin.com/in/firas-belhiba-4b7b66202/**
 
@@ -64,6 +69,7 @@
 ### 📊 GitHub Stats:
 ![firasbelhiba github stats](https://github-readme-stats.vercel.app/api?username=firasbelhiba&theme=nord&show_icons=true&count_private=true)
 ![firasbelhiba github stats](https://github-readme-streak-stats.herokuapp.com/?user=firasbelhiba&theme=nord&show_icons=true&count_private=true)
+![firasbelhiba github stats](https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7)
 
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firasbelhiba&theme=nord_dark)
@@ -71,15 +77,8 @@
 
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firasbelhiba&theme=github)
- 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/firasbelhiba/count.svg" />  
-</p>
+
+
 
 
 
