@@ -3,14 +3,9 @@
 <h3 align="center">A passionate Software engineer , Full stack & Blockchain developer from Tunisia</h3>
 
 
+- 🔭 I’m currently working on **Decentralized Applications**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firasbelhiba&label=Profile%20views&color=0e75b6&style=flat" alt="firasbelhiba" /> </p>
-
-- 🔭 I’m currently working on **medical web & mobile application**
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 💬 Ask me about **any thing web related**
+- 💬 Ask me about **any thing web or blockchain related**
 
 - 📫 How to reach me **Linkedin : www.linkedin.com/in/firas-belhiba-4b7b66202/**
 
