@@ -63,9 +63,11 @@
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="drawing" width="50"/>
- <img src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" alt="drawing" width="50"/>
 
 </span>
+
+### 📊 GitHub Stats:
+![firasbelhiba github stats](https://github-readme-stats.vercel.app/api?username=firasbelhiba&theme=nord&show_icons=true&count_private=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasbelhiba&layout=compact" alt="firasbelhiba" /></p>
 
