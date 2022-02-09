@@ -85,6 +85,9 @@
 <a href="https://github.com/firasbelhiba/SupplyChain-Ethereum-Powered-Simulator" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firasbelhiba&repo=SupplyChain-Ethereum-Powered-Simulator&theme=ayu-mirage&layout=compact" />
 </a>
+ <a href="https://github.com/firasbelhiba/NFT-Dungeon" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firasbelhiba&repo=NFT-Dungeon&theme=ayu-mirage&layout=compact" />
+</a>
 
 </center>
  
