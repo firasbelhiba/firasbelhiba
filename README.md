@@ -76,6 +76,10 @@
 
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firasbelhiba&theme=github)
+ 
+### Spotify Playing 🎧
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
 
 
