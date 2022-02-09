@@ -77,6 +77,4 @@
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firasbelhiba&theme=github)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firasbelhiba&show_icons=true&locale=en" alt="firasbelhiba" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbelhiba&" alt="firasbelhiba" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbelhiba&theme=nord&show_icons=true&count_private=true" alt="firasbelhiba" /></p>
