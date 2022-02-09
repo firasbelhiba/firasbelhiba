@@ -77,9 +77,14 @@
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firasbelhiba&theme=github)
  
-### Spotify Playing 🎧
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
+</p>
 
 
 
