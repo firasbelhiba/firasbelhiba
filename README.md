@@ -78,6 +78,18 @@
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firasbelhiba&theme=github)
  
+<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
+
+
+<center>
+<a href="https://github.com/firasbelhiba/SupplyChain-Ethereum-Powered-Simulator" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firasbelhiba&repo=SupplyChain-Ethereum-Powered-Simulator&theme=ayu-mirage&layout=compact" />
+</a>
+
+</center>
+ 
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
  
 
 
