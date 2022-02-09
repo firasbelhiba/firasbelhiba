@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats:
 ![firasbelhiba github stats](https://github-readme-stats.vercel.app/api?username=firasbelhiba&theme=nord&show_icons=true&count_private=true)
 ![firasbelhiba github stats](https://github-readme-streak-stats.herokuapp.com/?user=firasbelhiba&theme=nord&show_icons=true&count_private=true)
-![firasbelhiba github stats](https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7)
+![firasbelhiba github stats](https://github-profile-trophy.vercel.app/?username=firasbelhiba&theme=darkhub&no-frame=true&column=7)
 
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firasbelhiba&theme=nord_dark)
