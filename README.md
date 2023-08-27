@@ -44,39 +44,57 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://rust-lang.org/logos/rust-logo-512x512.png" width="48" height="48" alt="Jsonnet" />
+        <img src="https://rust-lang.org/logos/rust-logo-512x512.png" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://avatars.githubusercontent.com/u/59892387?v=4" width="48" height="48" alt="TypeScript" />
+        <img src="https://avatars.githubusercontent.com/u/59892387?v=4" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://angular.io/assets/images/logos/angular/angular.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://angular.io/assets/images/logos/angular/angular.png" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" width="48" height="48" alt="Docker" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="48" height="48" alt="Debian" />
+        <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Grafana" />
+        <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="48" height="48" alt="Nextjs" />
+      </a>
+      <br>Nextjs
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="48" height="48" alt="Dotnet" />
+      </a>
+      <br>Dotnet
     </td>
   </tr>
 </table>
