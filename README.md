@@ -110,8 +110,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firasbelhiba&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firasbelhiba&theme=nord_dark)
 
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firasbelhiba&theme=github)
  
 <h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
 
