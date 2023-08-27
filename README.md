@@ -120,10 +120,17 @@
 <a href="https://github.com/firasbelhiba/SupplyChain-Ethereum-Powered-Simulator" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firasbelhiba&repo=SupplyChain-Ethereum-Powered-Simulator&theme=ayu-mirage&layout=compact" />
 
+<br>
+ <a href="https://github.com/firasbelhiba/NFT-Dungeon" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firasbelhiba&repo=NFT-Dungeon&theme=ayu-mirage&layout=compact" />
+</a>
+
+
+
   Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
@@ -149,11 +156,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 </a>
-<br>
- <a href="https://github.com/firasbelhiba/NFT-Dungeon" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firasbelhiba&repo=NFT-Dungeon&theme=ayu-mirage&layout=compact" />
-</a>
-
 
  
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
