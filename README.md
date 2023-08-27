@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firasbelhiba&label=Profile%20views&color=0e75b6&style=flat" alt="firasbelhiba" /> </p>
 
-- 🔭 I’m currently working on a **Lightency ecosystem : lightency.io**
+- 🔭 I’m currently working on a **Lightency ecosystem : www.lightency.io/**
 
 - 💬 Ask me about **any thing web or blockchain related**
 
