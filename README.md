@@ -125,7 +125,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firasbelhiba&repo=NFT-Dungeon&theme=ayu-mirage&layout=compact" />
 </a>
 
-
+<br>
 
 
 <div>
@@ -158,14 +158,7 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif" width="30" height="30"/>
+
 
 </div>
 </a>
