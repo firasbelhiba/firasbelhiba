@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://angular.io/assets/images/logos/angular/angular.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Angular
     </td>
@@ -68,15 +68,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="48" height="48" alt="Debian" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>Python
     </td>
   </tr>
 </table>
