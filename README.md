@@ -1,12 +1,12 @@
 <div align="center" ><img  height="50%" width="100%" alt="welcome to my profile!" src="https://res.cloudinary.com/habibii/image/upload/v1693157467/Design_sans_titre_o8rnhi.png"></div>
 <h1 align="center">Hi 👋, I'm Firas Belhiba</h1>
-<h3 align="center">A passionate Software engineer , Full stack & Blockchain developer from Tunisia</h3>
+<h3 align="center">A passionate Software engineer , Full stack & Blockchain developer</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firasbelhiba&label=Profile%20views&color=0e75b6&style=flat" alt="firasbelhiba" /> </p>
 
-- 🔭 I’m currently working on a **Lightency ecosystem : www.lightency.io/**
+- 🔭 I’m currently working on a ** The first evolvable NFT marketplace in the cryptoverse : Cameleon on Massa blockchain : www.cameleon.art/**
 
 - 💬 Ask me about **any thing web or blockchain related**
 
